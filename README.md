@@ -29,7 +29,7 @@ Our primary goal was to design an algorithm to solve a problem scenario provided
 ## Installation
 
 1. Clone the repository to your local machine:
-   - git clone https://github.com/your-username/reply-challenge.git
+   - git clone https://github.com/RajeshK1006/Reply.git
   
 2. Navigate to the project directory:
    - cd  Reply
