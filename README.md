@@ -49,6 +49,6 @@ Our team secured 499 points and achieved 252nd place out of 1844 teams globally.
 
 ## Acknowledgments
 
-We would like to express our gratitude to Reply for organizing this challenging and rewarding event. Special thanks to our university community and the LiveWires club for their support and encouragement throughout our participation.
+We would like to express our gratitude to Reply for organizing this challenging and rewarding event. Special thanks to our university community and the LiveWires club for their support and encouragement throughout our participation!
 
 
