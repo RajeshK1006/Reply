@@ -26,18 +26,7 @@ The competition lasted for four hours, during which participants tackled algorit
 
 Our primary goal was to design an algorithm to solve a problem scenario provided by the organizers. We aimed to maximize our score by efficiently navigating a grid system while collecting points and minimizing costs.
 
-## Installation
-
-1. Clone the repository to your local machine:
-   - git clone https://github.com/RajeshK1006/Reply.git
-  
-2. Navigate to the project directory:
-   - cd  Reply
-
-
-3. Install any dependencies required by the solution (if applicable).
-
-## Usage
+## Installati
 
 1. Run the reply.py script or executable to execute our solution.
 2. Provide input files as arguments or utilize sample input files provided input.txt
